@@ -4,6 +4,6 @@ import { Injectable } from "@angular/core";
   providedIn: "root"
 })
 export class MailService {
-  message = ['america', 'indonesia', 'malaysia'];
+  messages = ["america", "indonesia", "malaysia"];
   constructor() {}
 }
